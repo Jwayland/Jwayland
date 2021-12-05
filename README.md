@@ -3,7 +3,7 @@
 ## About Me
 My name is Jordan Wayland. 
 I have a diverse background in construction and architecture, and a HUGE interest in programming, automation, finance, and virtual reality technology.
-I know what you are thinking, virtual reality and finance? How are those related? The answer is, they really aren't. I just enjoy learning about both.
+I know what you are thinking, virtual reality and finance? How are those related? The answer is, they really aren't (unless you consider the virtual Metaverse land sale craze). I just enjoy learning about both.
 
 ### Virtual Reality
 With a background in architecture (specifically 3D scanning, building mapping, and 360 photography), I had a will to learn more about the virtual frontier of this technology.
