@@ -13,7 +13,9 @@ I have an interest in interactive 3D building touring services and technology. I
 Now for finance. Money makes the world turn. I love working with money. I love budgeting my own life and saving for my own future goals. I love the power of compounding interest.
 If utilized correctly, you can get free stuff. Who doesn't love free stuff? My plan is to provide an R platform to help like-minded tech professionals navigate planning for retirement and life goals.
 I worked a number of years as an estimator for the world's largest landscape company in Orlando, FL. I was responsible for pricing landscape, irrigation, and hardscape projects for huge contracts with Disney and Universal Studios. 
-I like analyzing money, making the best use of it, and using code to optimize decisions where ever possible. I decided to lean into my love for finance and get an MBA through Louisiana State University with a concentration in Finance. 
+I like analyzing money, making the best use of it, and using code to optimize decisions where ever possible. I decided to lean into my love for finance and get an MBA through Louisiana State University with a concentration in Finance. Through this program, I learned many techniques to help analyze and aid in corporate financial decision making. 
+I have authored an R package `finhub` where you can see samples of corporate and retail financial planning and analysis activities.
+As I continue to learn, I will continue to automate and share my knowledge.
 
 # github
 Recently, I started uploading past projects to github with intentions to continue to provide content in the future. I want to share my knowledge and passion for VR and finance with the world.
